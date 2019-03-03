@@ -15,3 +15,7 @@
 2、conversion.cpp	进制转换
 
 - 十进制转N进制
+
+3、substring.cpp	子串处理相关
+
+- 数字序列最大字串和
