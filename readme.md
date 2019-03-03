@@ -10,6 +10,7 @@
 1、big_integer.cpp 	大整数相关计算
 
 - 两大数相加
+- 求整数阶乘（待优化）
 
 
 2、conversion.cpp	进制转换
